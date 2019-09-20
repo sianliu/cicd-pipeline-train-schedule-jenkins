@@ -1,6 +1,7 @@
 # cicd-pipeline-train-schedule-jenkins
 
-This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities. Has Jenkins integration with configured webhook for automatic builds. 
+This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities. Has Jenkins integration with configured webhook for automatic builds. Set up a webhook to trigger Jenkins whenever changes are made to the repo in GitHub.
+
 
 ## Running the app
 

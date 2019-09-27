@@ -24,4 +24,4 @@ Updated webhook IP
 Testing webhook. Status: build didn't auto start.
 Testing webhook 2. Status: checked github and jenkins configuration. 
 Testing webhook 3. Status: configured new api key. 
-Testing webhook 4. 
+Testing webhook 4. Fix: configured git and cloned repo on la-server. 

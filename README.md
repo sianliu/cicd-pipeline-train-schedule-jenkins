@@ -22,8 +22,9 @@ Created a new access token.
 Updated webhook IP 
 
 Testing webhook. Status: build didn't auto start.
-Testing webhook 2. Status: checked github and jenkins configuration. 
-Testing webhook 3. Status: configured new api key. 
-Testing webhook 4. Status: configured git and cloned repo on la-server. 
-Testing webhook 5. Status:  Github webhook pointing to the wrong Jenkins server
-Testing webhook 6. Status: Followed Triggering Builds with Git Hooks
+Testing webhook 2. Tried: checked github and jenkins configuration. 
+Testing webhook 3. Tried: configured new api key. 
+Testing webhook 4. Tried: configured git and cloned repo on la-server. 
+Testing webhook 5. Tried:  Github webhook pointing to the wrong Jenkins server
+Testing webhook 6. Tried: Followed Triggering Builds with Git Hooks
+Testing webhook 7. Tried: deleted email notification post build step 

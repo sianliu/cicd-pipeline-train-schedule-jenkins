@@ -1,6 +1,7 @@
 # cicd-pipeline-train-schedule-jenkins
 
-This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities.
+This is a simple train schedule app written using nodejs. It is intended to be used as a sample application for a series of hands-on learning activities. Has Jenkins integration with configured webhook for automatic builds. Set up a webhook to trigger Jenkins whenever changes are made to the repo in GitHub.
+
 
 ## Running the app
 
@@ -14,4 +15,14 @@ You can run the app with:
 
 Once it is running, you can access it in a browser at [http://localhost:3000](http://localhost:3000)
 
-Testing webhook 6. 
+Where do I go to configure webhook permissions? Github or Jenkins? Probably Github. 
+
+Created a new access token. 
+
+Updated webhook IP 
+
+Testing webhook. Status: build didn't auto start.
+Testing webhook 2. Status: checked github and jenkins configuration. 
+Testing webhook 3. Status: configured new api key. 
+Testing webhook 4. Status: configured git and cloned repo on la-server. 
+Testing webhook 5. 

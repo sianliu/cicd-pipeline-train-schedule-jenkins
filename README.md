@@ -26,4 +26,4 @@ Testing webhook 2. Status: checked github and jenkins configuration.
 Testing webhook 3. Status: configured new api key. 
 Testing webhook 4. Status: configured git and cloned repo on la-server. 
 Testing webhook 5. Status:  Github webhook pointing to the wrong Jenkins server
-Testing webhook 6. 
+Testing webhook 6. Status: Followed Triggering Builds with Git Hooks

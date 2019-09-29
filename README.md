@@ -29,3 +29,4 @@ Testing webhook 5. Tried:  Github webhook pointing to the wrong Jenkins server
 Testing webhook 6. Tried: Followed Triggering Builds with Git Hooks
 Testing webhook 7. Tried: deleted email notification post build step 
 Testing webhook 8. Status: webhooks successful. Fix: make sure Payload URL is pointing to correct Jenkins server. 
+Testing webhook 9. Automatic build status: 
